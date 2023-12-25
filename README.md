@@ -1,1 +1,1 @@
-This is my getting started machine learning project that I did on Kaggle Compettitions
+This is my getting started machine learning projects that I did on Kaggle Compettitions
